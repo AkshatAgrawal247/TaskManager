@@ -178,5 +178,5 @@ taskmgmt/
 
 ## Author
 
-Made with ❤️ by Akshat(https://github.com/your-username)
+Made with ❤️ by Akshat 
 
